@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "name": "Mikko Vatanen",
+    "label": "Developer, Wind Fanatic",
+    "picture": "",
+    "email": "mikko@vapaatyyli.fi",
+    "phone": "+358 40 574 41510",
+    "website": "http://www.vapaatyyli.fi",
+    "summary": "I'm experienced software developer and open source enthusiast. Learning, teaching, inventing and building new things keeps me always motivated. My skills are mostly on technical side of software development, but have also experience with teaching, communications and really enjoy doing various types of work. Non-professional interest include variety of fun sports and musical activities. Being a nerd is not always easy, but knowledge is what makes a happy nerd! |-(:-)",
+    "location": {
+      "address": "Katajaharjuntie 1B40",
+      "postalCode": "00200",
+      "city": "Helsinki",
+      "countryCode": "FI",
+      "region": "Uusimaa"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "surfmikko",
+        "url": "https://fi.linkedin.com/in/surfmikko"
+      },
+      {
+        "network": "GitHub",
+        "username": "surfmikko",
+        "url": "https://github.com/surfmikko"
+      },
+      {
+        "network": "Facebook",
+        "username": "mikkov",
+        "url": "http://www.facebook.com/mikkov"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CSC - IT Center for Science",
+      "position": "Applications Specialist",
+      "website": "http://www.csc.fi",
+      "startDate": "2012-12-03",
+      "summary": "Digital Preservation Services of The National Digital Library of Finland, a national project for long term preservation and access of Finnish cultural and research data. This project brings together many organisations from wide range of knowledge and expertise, together aiming to bring information available for everyone.",
+      "highlights": [
+        "Lead developer for Digital Preservation Service, mostly Python, MongoDB and web",
+        "Distributed workflows, storage middleware, data validation, web development",
+        "Quality assurance, test and delivery automation",
+        "Service administration, standards work"
+      ]
+    },
+    {
+      "company": "Portalify Ltd",
+      "position": "Software Engineer",
+      "website": "http://www.portalify.com",
+      "startDate": "2008-10-01",
+      "endDate": "2012-10-30",
+      "summary": "End-to-end solutions for comprehensive mobile working. Range of products which have boosted efficiency of control room and field operations. Customers ranging internationally from govermental organisations to private companies.",
+      "highlights": [
+        "Software and database development, mostly Perl, PostreSQL and web/sms",
+        "Map and locationing software development",
+        "Instant messaging and mobile service integration development",
+        "Service administration, customer support"
+      ]
+    },
+    {
+      "company": "Tasoväri Oy",
+      "position": "Construction worker",
+      "website": "",
+      "startDate": "2007-08-01",
+      "endDate": "2008-04-30",
+      "summary": "Plumbing renovation services in central Helsinki area.",
+      "highlights": [
+        "Demolition and concrete drilling works",
+        "Carpentry and paint works"
+      ]
+    },
+    {
+      "company": "Karjalan tietovalta Oy / Novo Group",
+      "position": "Software Engineer",
+      "website": "https://www.cgi.fi/historia-suomessa",
+      "startDate": "2001-06-01",
+      "endDate": "2005-10-01",
+      "summary": "Consulting position for Ministry of Agriculture and Forestry. This was my first full-time developer position. I was hired straight after my summer job period, and worked under several companies due to company acquisitions.",
+      "highlights": [
+        "Software and database development, mostly Delphi/Oracle",
+        "Main developer of import quota tracking system for agricultural products",
+        "Administrative development for export-, milk- and sugar- subsidiary systems",
+        "Finnish markka to euro currency conversions for applications",
+        "Customer support"
+      ]
+    },
+    {
+      "company": "University of Joensuu, Upper Secondary School of Kontiolahti",
+      "position": "IT Support",
+      "website": "http://www.uef.fi",
+      "startDate": "1999-09-01",
+      "endDate": "2007-04-30",
+      "summary": "Several part time jobs while studying. Including workstation support, administration and teaching for secondary school students.",
+      "highlights": [ ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Finnish Boardsailing Association",
+      "position": "Member of board",
+      "website": "http://www.purjelautaliitto.fi/",
+      "startDate": "2006-05-15",
+      "summary": "National class association for all wind fanatics",
+      "highlights": [
+        "Teaching windsurfing since 2006 at Yyteri Surfcenter",
+        "Web service, weather station development and administration"
+      ]
+    },
+    {
+      "organization": "Capoeira Nordica Ry",
+      "position": "Member of board",
+      "website": "http://www.capoeiranordica.net",
+      "startDate": "2002-01-01",
+      "endDate": "2007-12-31",
+      "summary": "Local capoeira group at Joensuu",
+      "highlights": [
+        "Teaching capoeira, web administration, misc. tasks"
+      ]
+    },
+    {
+      "organization": "North Karelia Center for Public Health",
+      "position": "Web developer",
+      "website": "http://www.kansanterveys.info",
+      "startDate": "2002-01-01",
+      "endDate": "2007-12-31",
+      "summary": "Association for cardiovascular disease research and promoting healthy life habits",
+      "highlights": [
+        "Web development"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Joensuu",
+      "area": "Computer Science, Philosophy",
+      "studyType": "Masters (not finished)",
+      "startDate": "2002-01-01",
+      "endDate": "2007-12-31",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Civil Service",
+      "area": "General studies",
+      "studyType": "Peace and Love!",
+      "startDate": "1996-06-01",
+      "endDate": "1997-07-30",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Upper Secondary School of Kontiolahti",
+      "area": "General studies",
+      "studyType": "Matriculation Examination",
+      "startDate": "1993-09-01",
+      "endDate": "1996-03-30",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Impressed by Ingest - Efficient and reliable workflows",
+      "publisher": "Open Repositories 2016 conference",
+      "releaseDate": "2016-06-16",
+      "website": "http://www.kdk.fi/index.php/fi/tietoa-hankkeesta/126-suomi/yleiset/76-esityksiae-ja-artikkeleita",
+      "summary": "Overview about implementing reliable workflows for huge datasets."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "Software design",
+        "Database design",
+        "Agile development",
+        "Release processes"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "Python, Perl",
+        "SQL, NoSQL",
+        "XML, HTML, CSS, Javascript",
+        "Object Pascal, C/C++"
+      ]
+    },
+    {
+      "name": "Testing and administration",
+      "level": "Expert",
+      "keywords": [
+        "Ansible, Vagrant, Docker, Jenkins",
+        "Web servers, PostgreSQL, MongoDB",
+        "Linux, OS X"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Finnish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent written and spoken"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Getting sore muscles",
+      "keywords": [
+        "Windsurfing and kitesurfing",
+        "Mountain biking",
+        "Climbing",
+        "Snowboarding",
+        "and many more..."
+      ]
+    },
+    {
+      "name": "Studying and making some noise",
+      "keywords": [
+        "Information nerd",
+        "Hacking",
+        "Guitar and piano"
+      ]
+    }
+  ]
+}
